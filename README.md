@@ -1,7 +1,7 @@
 ### <div align="center">I'm Duc, a software developer 🚀</div>  
   
 
-- 🔭 I’m currently opening to work.  
+- 🔭 I’m currently working.  
   
 
 - 🌱 I’m currently reviewing OOP, SQL and Algorithm.  
